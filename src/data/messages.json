@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": "msg1",
+      "senderId": "d1",
+      "receiverId": "p1",
+      "content": "How are you feeling after today's exercises?",
+      "timestamp": "2024-03-15T10:30:00Z"
+    },
+    {
+      "id": "msg2",
+      "senderId": "p1",
+      "receiverId": "d1",
+      "content": "Feeling good, but my knee is a bit sore",
+      "timestamp": "2024-03-15T10:35:00Z"
+    }
+  ]
+}

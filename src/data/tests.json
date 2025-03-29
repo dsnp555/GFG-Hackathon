@@ -1,0 +1,55 @@
+{
+  "tests": [
+    {
+      "id": "t1",
+      "patientId": "p1",
+      "doctorId": "d1",
+      "title": "Range of Motion Test",
+      "description": "Measure flexibility and joint movement range",
+      "dueDate": "2024-03-25",
+      "completed": false,
+      "category": "Flexibility"
+    },
+    {
+      "id": "t2",
+      "patientId": "p1",
+      "doctorId": "d1",
+      "title": "Strength Assessment",
+      "description": "Evaluate muscle strength progress",
+      "dueDate": "2024-03-18",
+      "completed": true,
+      "results": "Good progress in lower body strength",
+      "category": "Strength"
+    },
+    {
+      "id": "t3",
+      "patientId": "p1",
+      "doctorId": "d1",
+      "title": "Balance Assessment",
+      "description": "Evaluate static and dynamic balance",
+      "dueDate": "2024-03-30",
+      "completed": false,
+      "category": "Balance"
+    },
+    {
+      "id": "t4",
+      "patientId": "p1",
+      "doctorId": "d1",
+      "title": "Gait Analysis",
+      "description": "Analyze walking pattern and speed",
+      "dueDate": "2024-04-05",
+      "completed": false,
+      "category": "Mobility"
+    },
+    {
+      "id": "t5",
+      "patientId": "p1",
+      "doctorId": "d1",
+      "title": "Cardiovascular Endurance Test",
+      "description": "Measure heart rate recovery after light exercise",
+      "dueDate": "2024-04-10",
+      "completed": false,
+      "category": "Endurance"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "milestones": [
+    {
+      "id": "m1",
+      "patientId": "p1",
+      "title": "Walk 10 minutes",
+      "description": "Walk continuously for 10 minutes with support",
+      "completed": false,
+      "dueDate": "2024-03-20",
+      "category": "Mobility",
+      "points": 10
+    },
+    {
+      "id": "m2",
+      "patientId": "p1",
+      "title": "Stretch exercises",
+      "description": "Complete daily stretching routine",
+      "completed": true,
+      "dueDate": "2024-03-15",
+      "category": "Flexibility",
+      "points": 5
+    },
+    {
+      "id": "m3",
+      "patientId": "p1",
+      "title": "Balance Training",
+      "description": "Stand on one leg for 30 seconds",
+      "completed": false,
+      "dueDate": "2024-03-22",
+      "category": "Balance",
+      "points": 15
+    },
+    {
+      "id": "m4",
+      "patientId": "p1",
+      "title": "Strength Training",
+      "description": "Complete 10 chair squats",
+      "completed": false,
+      "dueDate": "2024-03-25",
+      "category": "Strength",
+      "points": 20
+    },
+    {
+      "id": "m5",
+      "patientId": "p1",
+      "title": "Endurance Building",
+      "description": "Cycle for 15 minutes on stationary bike",
+      "completed": false,
+      "dueDate": "2024-03-28",
+      "category": "Endurance",
+      "points": 25
+    }
+  ]
+}

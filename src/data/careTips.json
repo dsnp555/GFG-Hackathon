@@ -1,0 +1,49 @@
+{
+  "careTips": [
+    {
+      "id": "ct1",
+      "title": "Proper Hydration",
+      "description": "Drink at least 8 glasses of water daily for optimal recovery",
+      "category": "General Health",
+      "doctorId": "d1",
+      "patientId": "p1",
+      "createdAt": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "ct2",
+      "title": "Rest Periods",
+      "description": "Take regular breaks between exercises to prevent fatigue",
+      "category": "Exercise",
+      "doctorId": "d1",
+      "patientId": "p1",
+      "createdAt": "2024-03-15T10:30:00Z"
+    },
+    {
+      "id": "ct3",
+      "title": "Sleep Schedule",
+      "description": "Maintain a consistent sleep schedule of 7-8 hours per night",
+      "category": "Rest",
+      "doctorId": "d1",
+      "patientId": "p1",
+      "createdAt": "2024-03-15T11:00:00Z"
+    },
+    {
+      "id": "ct4",
+      "title": "Nutrition Guide",
+      "description": "Focus on protein-rich foods to support muscle recovery",
+      "category": "Nutrition",
+      "doctorId": "d1",
+      "patientId": "p1",
+      "createdAt": "2024-03-15T11:30:00Z"
+    },
+    {
+      "id": "ct5",
+      "title": "Pain Management",
+      "description": "Apply ice pack for 15-20 minutes after exercises",
+      "category": "Recovery",
+      "doctorId": "d1",
+      "patientId": "p1",
+      "createdAt": "2024-03-15T12:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "d1",
+      "email": "drsrujan@gmail.com",
+      "password": "srujan123",
+      "name": "Dr. Srujan",
+      "role": "doctor",
+      "assignedTo": ["p1"]
+    },
+    {
+      "id": "p1",
+      "email": "kishore@gmail.com",
+      "password": "kishore123",
+      "name": "kishore",
+      "role": "patient",
+      "assignedTo": "d1"
+    },
+    {
+      "id": "p2",
+      "email": "kishor@gmail.com",
+      "password": "kishor123",
+      "name": "kishor",
+      "role": "patient",
+      "assignedTo": "d1"
+    }
+  ]
+}
